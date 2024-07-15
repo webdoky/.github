@@ -30,4 +30,4 @@
 
 Багато запитань і не знаєте, з чого почати? Завітайте до нашого робочого чату [https://t.me/joinchat/MJoYPUoF0Ys0ZjEy](https://t.me/joinchat/MJoYPUoF0Ys0ZjEy).
 
-Також ви можете надіслати нам листа поштою на [info@webdoky.org](mailto:info@webdoky.org]
+Також ви можете надіслати нам листа поштою на info@webdoky.org
